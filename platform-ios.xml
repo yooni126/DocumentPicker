@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<platform xmlns="http://ns.adobe.com/air/extension/51.0">
+    <sdkVersion>12.0</sdkVersion>
+    <linkerOptions>
+        <option>-framework Foundation</option>
+        <option>-framework UIKit</option>
+        <option>-weak_framework UniformTypeIdentifiers</option>
+        <option>-ObjC</option>
+    </linkerOptions>
+</platform>

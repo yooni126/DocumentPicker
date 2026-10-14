@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension xmlns="http://ns.adobe.com/air/extension/51.0">
+    <id>com.fdp.DocumentPicker</id>
+    <versionNumber>1.0.0</versionNumber>
+    <platforms>
+        <platform name="iPhone-ARM">
+            <applicationDeployment>
+                <nativeLibrary>libFDPDocumentPicker.a</nativeLibrary>
+                <initializer>FDPDocumentPickerInitializer</initializer>
+                <finalizer>FDPDocumentPickerFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+        <platform name="default"><applicationDeployment /></platform>
+    </platforms>
+</extension>

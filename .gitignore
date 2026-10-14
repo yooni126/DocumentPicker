@@ -1,0 +1,20 @@
+# Native and AIR build output
+/build/
+/dist/
+*.ane
+*.swc
+*.o
+*.a
+*.swf
+
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# IDE and local settings
+.vscode/
+.idea/
+*.log
+.env
+.env.*
