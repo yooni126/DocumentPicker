@@ -1,4 +1,4 @@
-# FDP Document Picker for Adobe AIR (iOS)
+# Document Picker for Adobe AIR (iOS)
 
 **Open-source source package for an Adobe AIR Native Extension (ANE) that presents the iOS Files document picker to select `.xlsx` workbooks.**
 
